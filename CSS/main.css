@@ -74,11 +74,13 @@ a.button:hover {
 	margin-top:75px;
 	width:100%;
 }
+
 .search-box img {
 	padding:1px 0 3px 0;
 	display: block;
 	margin:0px auto;
 }
+
 .search-border {
 	border: 1px solid rgb(0,150,240);
 	display: block;
@@ -87,17 +89,18 @@ a.button:hover {
 	margin: 0 auto 0 auto;
 	padding: 0px;
 }
+
 .fa, .fa-microphone {
 	margin: 8px 0 0 15px;
 	padding: 0px;
 }
 .search-box input {
 	width: 550px;
-	height: 28px;
+	height: 30px;
     margin: 10 auto 0px auto;
     padding-top: 6px;
     border: 0px;
-    font-size: 16px;
+    font-size: 20px;
     border-radius: 0px;
     display: inline;
 }
